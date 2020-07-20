@@ -20,7 +20,7 @@
     }
   ],
   "lang": "en-US",
-  "name": "Eray's Blog",
+  "name": "Gaurav's Blog",
   "orientation": "any",
   "scope": "/",
   "shortcuts": [
@@ -30,7 +30,7 @@
       "url": "/writer"
     }
   ],
-  "short_name": "Eray's Blog",
+  "short_name": "Gaurav's Blog",
   "start_url": "/",
   "theme_color": "#000000"
 }
