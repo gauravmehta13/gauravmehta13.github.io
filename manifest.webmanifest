@@ -1,0 +1,36 @@
+{
+  "background_color": "#000000",
+  "display": "minimal-ui",
+  "icons": [
+    {
+      "sizes": "192x192",
+      "src": "/apple-touch-icon.png",
+      "type": "image/png"
+    },
+    {
+      "sizes": "512x512",
+      "src": "/favicon.png",
+      "type": "image/png"
+    },
+    {
+      "purpose": "any maskable",
+      "sizes": "512x512",
+      "src": "/maskable_icon.png",
+      "type": "image/png"
+    }
+  ],
+  "lang": "en-US",
+  "name": "Eray's Blog",
+  "orientation": "any",
+  "scope": "/",
+  "shortcuts": [
+    {
+      "icons": [{ "sizes": "192x192", "src": "/writer.png" }],
+      "name": "Writer",
+      "url": "/writer"
+    }
+  ],
+  "short_name": "Eray's Blog",
+  "start_url": "/",
+  "theme_color": "#000000"
+}
